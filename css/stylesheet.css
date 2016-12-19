@@ -1,0 +1,106 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-left: 5em;
+    margin-right: 5em;
+    background-color: #C63D0F;
+}
+
+div#header {
+    text-align: center;
+    border: 3px dotted crimson;
+    margin: 3em 32em 3em 32em;
+    background-color: darkorange;
+    border-radius: 15px 50px;
+}
+
+div#navbar {
+    text-align: center;
+    word-spacing: 2em;
+    background-color: #FDF3E7;
+}
+
+a {
+    color: #b8860b;
+}
+
+a:hover {
+    font-weight: bold;
+    text-decoration:none;
+}
+
+div#content {
+    background-color: #FDF3E7;
+    border: 1px dotted #ffffff;
+    padding: 2em;
+}
+
+p {
+    margin: 1em 2em 2em 2em;
+}
+
+img.float-r {
+    display: block;
+    float: right;
+    margin: 2em 5em 2em 5em;
+}
+
+.textleftmargin {
+    margin-left: 1em;
+}
+
+h2.no-wrap {
+    clear: both;
+    text-align: center;
+}
+
+img.bookfair {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+p.wrap {
+    clear: both;
+}
+
+h2.signupbox {
+    text-align: center;
+    border: 5px solid darkorange;
+    padding: .5em 1em .5em 1em;
+    margin: 0 21em 0 21em;
+    background-color: darkorange;
+    border-radius: 15px 15px 15px 15px
+}
+
+h3.joinusbox {
+    text-align: center;
+    border: 5px solid darkorange;
+    padding: .5em 1em .5em 1em;
+    margin: 0 55em 4em 2em;
+    background-color: darkorange;
+    border-radius: 15px 15px 15px 15px
+}
+
+ul.special {
+    margin-left: 1em;
+}
+
+h4.address {
+    margin-bottom: 10em;
+}
+
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: 2em;
+}
+
+div#footer {
+    text-align: center;
+    word-spacing: 2em;
+    font-size: 0.75em;
+}
